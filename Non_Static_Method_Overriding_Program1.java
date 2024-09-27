@@ -4,7 +4,7 @@ class Fackebook_email extends Fackebook_pass {
 
 	void Facebook() {
 		System.out.println("Facebook Email");
-		super.Facebook();
+		
 
 	}
 
